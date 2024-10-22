@@ -1,4 +1,4 @@
-![Otto_von_Guericke_Universität_Magdeburg_logo svg](https://github.com/user-attachments/assets/551e464e-917b-44fb-a14f-e45e0feaed0d)- 👋 Hi, I’m @Belvin7
+ 👋 Hi, I’m @Belvin7
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BELVIN BENNY THOMAS 
@@ -9,7 +9,8 @@ Full Stack WebDeveloper
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passion+Developer;Python+%26+Django;Node+%26+React;JavaScript+%26+Typescript;Flutter+%26+Dart)](https://git.io/typing-svg)
 
-A computer science Student studying his Bachelors degree . <img width="60" src="https://github.com/user-attachments/assets/551e464e-917b-44fb-a14f-e45e0feaed0d">  
+A computer science Student studying his Bachelors degree . <img width="60" src="https://github.com/user-attachments/assets/257c0cf1-368a-412e-aa49-d8f1be43cb1f">
+
 
 
 * 🌍  I'm based in Germany
