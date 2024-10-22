@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Belvin7
+![Otto_von_Guericke_Universität_Magdeburg_logo svg](https://github.com/user-attachments/assets/551e464e-917b-44fb-a14f-e45e0feaed0d)- 👋 Hi, I’m @Belvin7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -14,10 +14,11 @@ Full Stack WebDeveloper
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passion+Developer;Python+%26+Django;Node+%26+React;JavaScript+%26+Typescript;Flutter+%26+Dart)](https://git.io/typing-svg)
 
-A computer science Student studying his Bachelors degree . <img width="120" src="[https://en.m.wikipedia.org/wiki/File:Otto_von_Guericke_Universit%C3%A4t_Magdeburg_logo.svg]">
+A computer science Student studying his Bachelors degree . <img width="120" src="[https://github.com/user-attachments/assets/39e2f0a5-d17a-452c-8404-03823ca65bea]">  
+
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [EnesAgir](https://github.com/Belvin7)
+* 🖥️  See my portfolio at [Belvin](https://github.com/Belvin7)
 * ✉️  You can contact me at [belvin.student@gmail.com](mailto:belvin.student@gmail.com)
 * 🚀  I'm currently working on an ERP system with a company 
 * 🧠  I'm learning New Tools
