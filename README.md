@@ -6,15 +6,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ENES AGIR
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BELVIN BENNY THOMAS 
 =================================================================================================================================
 
-Full Stack Web/Mobile developer
+Full Stack WebDeveloper
 -------------------------------
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passion+Developer;Python+%26+Django;Node+%26+React;JavaScript+%26+Typescript;Flutter+%26+Dart)](https://git.io/typing-svg)
 
-A computer science Student studying his Bachelors degree . <img width="120" src="https://www.helping.academy/images/Logos/SRH.png">
+A computer science Student studying his Bachelors degree . <img width="120" src="[https://en.m.wikipedia.org/wiki/File:Otto_von_Guericke_Universit%C3%A4t_Magdeburg_logo.svg]">
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [EnesAgir](https://github.com/Belvin7)
