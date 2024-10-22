@@ -14,7 +14,7 @@ Full Stack WebDeveloper
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passion+Developer;Python+%26+Django;Node+%26+React;JavaScript+%26+Typescript;Flutter+%26+Dart)](https://git.io/typing-svg)
 
-A computer science Student studying his Bachelors degree . <img width="120" src="[https://github.com/user-attachments/assets/39e2f0a5-d17a-452c-8404-03823ca65bea]">  
+A computer science Student studying his Bachelors degree . <img width="60" src="[https://github.com/user-attachments/assets/39e2f0a5-d17a-452c-8404-03823ca65bea]">  
 
 
 * 🌍  I'm based in Germany
