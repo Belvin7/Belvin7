@@ -68,6 +68,3 @@ A computer science Student studying his Bachelors degree . <img width="60" src="
 | ------------- | ------------- |
 
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
