@@ -1,6 +1,7 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BELVIN BENNY THOMAS 
-=================================================================================================================================
+Hi, My name is BELVIN BENNY THOMAS !  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
+
+============================================================================================
 
 Student developer 
 -------------------------------
@@ -15,8 +16,6 @@ A computer science student studying his Bachelors degree . <img width="60" src="
 * 🖥️  See my portfolio at [Belvin](https://github.com/Belvin7)
 * ✉️  You can contact me at [belvin.student@gmail.com](mailto:belvin.student@gmail.com)
 * 🚀  I'm currently working on an ERP system with a company 
-* 🧠  I'm learning New Tools
-
 
 ### 💻 Skills
 
