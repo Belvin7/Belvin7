@@ -1,12 +1,10 @@
 
 Hi, My name is BELVIN BENNY THOMAS !  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
 
-======================================================================
+
 
 Student developer 
--------------------------------
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+Developer;Frontend+Developer;Game+Developer;GDScript;React+%26+Node;HTML5+%2B+CSS;JavaScript+%26+TypeScript)](https://git.io/typing-svg)
+------------------------------
 
 A computer science student studying his Bachelors degree . <img width="60" src="https://github.com/user-attachments/assets/257c0cf1-368a-412e-aa49-d8f1be43cb1f">
 
@@ -34,9 +32,9 @@ A computer science student studying his Bachelors degree . <img width="60" src="
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
-<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bitbucket-colored.svg" width="36" height="36" alt="Bitbucket" /></a>
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azuredevops-colored.svg" width="36" height="36" alt="Azure DevOps" /></a>
-   
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2108/PNG/512/bitbucket_icon_130979.png" width="36" height="36" alt="Bitbucket" /></a>
+
+
 </p>
 
 
@@ -45,7 +43,14 @@ A computer science student studying his Bachelors degree . <img width="60" src="
 
 ### Socials
 
-<p align="left"> <a href="[https://github.com/Belvin7]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="..." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+   <a href="[https://github.com/Belvin7]" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+   </a>  
+   <a href="https://www.linkedin.com/in/belvin-thomas-bb219b333/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+   </a> 
+</p>
 
 ### Badges
 
