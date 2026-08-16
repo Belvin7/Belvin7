@@ -51,12 +51,3 @@ A computer science student studying his Bachelors degree . <img width="60" src="
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
    </a> 
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-| <a href="http://www.github.com/Belvin7"><img src="https://github-readme-stats.vercel.app/api?username=Belvin7-7&show_icons=true&hide=issues,&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Belvin7 's GitHub stats" /></a> | <a href="http://www.github.com/Belvin7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Belvin7&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
