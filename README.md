@@ -11,7 +11,7 @@ A computer science student studying his Bachelors degree . <img width="60" src="
 
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [Belvin](https://github.com/Belvin7)
+* 🖥️  See my portfolio at [Belvin](https://www.belvinbennythomas.space)
 * ✉️  You can contact me at [belvin.student@gmail.com](mailto:belvin.student@gmail.com)
 * 🚀  I'm currently working on an ERP system with a company 
 
