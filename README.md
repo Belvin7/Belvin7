@@ -57,7 +57,8 @@ A computer science student studying his Bachelors degree . <img width="60" src="
 
 
 
-### Socials
+Socials
+-----------------
 
 <p align="left"> 
    <a href="[https://github.com/Belvin7]" target="_blank" rel="noreferrer">
